@@ -45,7 +45,7 @@ export default {
       console.error("Erro ao carregar dados da API, tentando cache local...");
 
       try {
-        const cacheResponse = await axios.get("/src/views/cache/projects_cache.json"); // Busca do cache local
+        const cacheResponse = await axios.get("/cache/projects_cache.json"); // Busca do cache local
         this.images = cacheResponse.data.data.map((project) => ({
           id: project.hash_id,
           src: project.cover.thumb_url,

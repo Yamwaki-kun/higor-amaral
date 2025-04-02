@@ -80,7 +80,7 @@ export default {
 
       try {
         // Se a API falhar, busca os dados do cache local
-        const cacheResponse = await axios.get(`/src/views/cache/projects_details_cache/${projectId}.json`);
+        const cacheResponse = await axios.get(`/cache/projects_details_cache/${projectId}.json`);
 
         console.log("Carregado do cache local:", cacheResponse.data);
 

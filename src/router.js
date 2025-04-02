@@ -8,7 +8,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory('/higora-maral/'), // Define o base path para corresponder ao publicPath do Vite
+  history: createWebHistory('/higor-amaral/'), // Define o base path para corresponder ao publicPath do Vite
   routes
 });
 

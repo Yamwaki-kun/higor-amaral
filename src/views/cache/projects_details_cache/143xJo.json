@@ -1,0 +1,141 @@
+{
+  "liked": false,
+  "tags": [
+    "animation",
+    "art",
+    "gif",
+    "video",
+    "conceptart"
+  ],
+  "hide_as_adult": false,
+  "visible_on_artstation": true,
+  "assets": [
+    {
+      "has_image": false,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 59537527,
+      "title": null,
+      "title_formatted": "",
+      "image_url": "https://cdnb.artstation.com/p/assets/covers/images/059/537/527/large/higor-amaral-higor-amaral-3591e86b-4c98-4c47-8d1b-24ba9cdcf834.jpg?1676587784",
+      "width": 525,
+      "height": 517,
+      "position": 0,
+      "asset_type": "cover",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": true,
+      "player_embedded": "<iframe src='https://www.artstation.com/api/v2/animation/video_clips/8b99499d-2917-42d7-bb84-279bb308e00c/embed.html?s=fdc42cffe72c55dec43d67ccd830af6e23e0a9f7275aa4d15a018096d76cb16d&t=1743639979' width='1920' height='1186' frameborder='0' allowfullscreen allows='autoplay; fullscreen' style='max-width: 1920px; max-height: 1186px;'></iframe>",
+      "oembed": {
+        "width": 1920,
+        "height": 1186,
+        "provider_name": "ArtStation"
+      },
+      "id": 49365988,
+      "title": null,
+      "title_formatted": "",
+      "image_url": "https://cdna.artstation.com/p/assets/video_clips/images/049/365/988/large/higor-amaral-thumb.jpg?1652318697",
+      "width": 1920,
+      "height": 1186,
+      "position": null,
+      "asset_type": "video_clip",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": true,
+      "player_embedded": "<iframe src='https://www.artstation.com/api/v2/animation/video_clips/f8034c46-698e-4a6a-8b4f-6282dfba2fb2/embed.html?s=470a891ed839c3da10db2212374a2fdd34330cfb0e73fdc6be45cf41bab6e394&t=1743639979' width='1920' height='1188' frameborder='0' allowfullscreen allows='autoplay; fullscreen' style='max-width: 1920px; max-height: 1188px;'></iframe>",
+      "oembed": {
+        "width": 1920,
+        "height": 1188,
+        "provider_name": "ArtStation"
+      },
+      "id": 49978406,
+      "title": "Test 2",
+      "title_formatted": "<div class=\"asset-caption\"><p>Test 2</p></div>",
+      "image_url": "https://cdna.artstation.com/p/assets/video_clips/images/049/978/406/large/higor-amaral-thumb.jpg?1653771191",
+      "width": 1920,
+      "height": 1188,
+      "position": null,
+      "asset_type": "video_clip",
+      "viewport_constraint_type": "constrained"
+    }
+  ],
+  "collections": [],
+  "user": {
+    "followed": false,
+    "following_back": false,
+    "blocked": false,
+    "is_staff": false,
+    "is_plus_member": false,
+    "is_studio_account": false,
+    "is_school_account": false,
+    "id": 1147213,
+    "username": "higoramarall",
+    "headline": "Ilustration, Character Design, Cencept art",
+    "full_name": "Higor  Amaral",
+    "permalink": "https://www.artstation.com/higoramarall",
+    "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/001/147/213/medium/ca9eaf92db40475182734cb9dfdf30cc.jpg?1641493113",
+    "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/001/147/213/large/ca9eaf92db40475182734cb9dfdf30cc.jpg?1641493113",
+    "small_cover_url": "https://cdnb.artstation.com/p/users/covers/001/147/213/small/1f905cdcdba5fd02cc7214305a588807.jpg?1689107957",
+    "pro_member": false
+  },
+  "medium": {
+    "name": "Digital 2D",
+    "id": 1
+  },
+  "mediums": [
+    {
+      "name": "Digital 2D",
+      "id": 1
+    },
+    {
+      "name": "Animation",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "name": "Concept Art",
+      "id": 3
+    },
+    {
+      "name": "Character Design",
+      "id": 65
+    },
+    {
+      "name": "Character Animation",
+      "id": 67
+    }
+  ],
+  "software_items": [
+    {
+      "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/183/default/Icon.png?1487948438",
+      "name": "Procreate"
+    }
+  ],
+  "id": 12786998,
+  "user_id": 1147213,
+  "title": "Letrx animation 01",
+  "description": "<p>This is only a animation test</p>",
+  "description_html": "<p>This is only a animation test</p>",
+  "created_at": "2022-05-11T20:31:18.451-05:00",
+  "updated_at": "2023-02-16T16:49:47.952-06:00",
+  "views_count": 53,
+  "likes_count": 0,
+  "comments_count": 0,
+  "permalink": "https://www.artstation.com/artwork/143xJo",
+  "cover_url": "https://cdnb.artstation.com/p/assets/covers/images/059/537/527/medium/higor-amaral-higor-amaral-3591e86b-4c98-4c47-8d1b-24ba9cdcf834.jpg?1676587784",
+  "published_at": "2022-05-11T20:31:18.437-05:00",
+  "editor_pick": false,
+  "adult_content": false,
+  "admin_adult_content": false,
+  "slug": "letrx-animation-01",
+  "suppressed": false,
+  "hash_id": "143xJo",
+  "visible": true,
+  "is_promotional": false
+}

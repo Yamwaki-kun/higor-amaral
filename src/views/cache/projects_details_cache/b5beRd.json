@@ -1,0 +1,132 @@
+{
+  "liked": false,
+  "tags": [
+    "fortnite",
+    "conceptart",
+    "fortniteart",
+    "jonesy"
+  ],
+  "hide_as_adult": false,
+  "visible_on_artstation": true,
+  "assets": [
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 48457528,
+      "title": "",
+      "title_formatted": "",
+      "image_url": "https://cdna.artstation.com/p/assets/images/images/048/457/528/large/higor-amaral-6918124c-7a7b-41d1-96d6-b9abceb2b7a0.jpg?1650076279",
+      "width": 2048,
+      "height": 2048,
+      "position": 0,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": false,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 59538101,
+      "title": null,
+      "title_formatted": "",
+      "image_url": "https://cdnb.artstation.com/p/assets/covers/images/059/538/101/large/higor-amaral-higor-amaral-20f18ec4-6246-4c1f-a3b1-4ac94557d39e.jpg?1676589120",
+      "width": 707,
+      "height": 626,
+      "position": 0,
+      "asset_type": "cover",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 48457531,
+      "title": "",
+      "title_formatted": "",
+      "image_url": "https://cdnb.artstation.com/p/assets/images/images/048/457/531/large/higor-amaral-1c11af33-a540-43d6-b0c0-d1e8f9316143.jpg?1650076286",
+      "width": 2048,
+      "height": 2048,
+      "position": 1,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    }
+  ],
+  "collections": [],
+  "user": {
+    "followed": false,
+    "following_back": false,
+    "blocked": false,
+    "is_staff": false,
+    "is_plus_member": false,
+    "is_studio_account": false,
+    "is_school_account": false,
+    "id": 1147213,
+    "username": "higoramarall",
+    "headline": "Ilustration, Character Design, Cencept art",
+    "full_name": "Higor  Amaral",
+    "permalink": "https://www.artstation.com/higoramarall",
+    "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/001/147/213/medium/ca9eaf92db40475182734cb9dfdf30cc.jpg?1641493113",
+    "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/001/147/213/large/ca9eaf92db40475182734cb9dfdf30cc.jpg?1641493113",
+    "small_cover_url": "https://cdnb.artstation.com/p/users/covers/001/147/213/small/1f905cdcdba5fd02cc7214305a588807.jpg?1689107957",
+    "pro_member": false
+  },
+  "medium": {
+    "name": "Digital 2D",
+    "id": 1
+  },
+  "mediums": [
+    {
+      "name": "Digital 2D",
+      "id": 1
+    },
+    {
+      "name": "Mixed Media",
+      "id": 14
+    }
+  ],
+  "categories": [
+    {
+      "name": "Concept Art",
+      "id": 3
+    },
+    {
+      "name": "Fan Art",
+      "id": 43
+    },
+    {
+      "name": "Character Design",
+      "id": 65
+    }
+  ],
+  "software_items": [
+    {
+      "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/183/default/Icon.png?1487948438",
+      "name": "Procreate"
+    }
+  ],
+  "id": 12583313,
+  "user_id": 1147213,
+  "title": "The Foundation and Jonesy - Fortnite",
+  "description": "<p>The Foundation and Jonesy, Fortnite character lore</p>",
+  "description_html": "<p>The Foundation and Jonesy, Fortnite character lore</p>",
+  "created_at": "2022-04-15T21:36:41.452-05:00",
+  "updated_at": "2023-02-16T17:12:05.294-06:00",
+  "views_count": 80,
+  "likes_count": 0,
+  "comments_count": 0,
+  "permalink": "https://www.artstation.com/artwork/b5beRd",
+  "cover_url": "https://cdnb.artstation.com/p/assets/covers/images/059/538/101/medium/higor-amaral-higor-amaral-20f18ec4-6246-4c1f-a3b1-4ac94557d39e.jpg?1676589120",
+  "published_at": "2022-04-15T21:36:41.444-05:00",
+  "editor_pick": false,
+  "adult_content": false,
+  "admin_adult_content": false,
+  "slug": "the-foundation-and-jonesy-fortnite",
+  "suppressed": false,
+  "hash_id": "b5beRd",
+  "visible": true,
+  "is_promotional": false
+}

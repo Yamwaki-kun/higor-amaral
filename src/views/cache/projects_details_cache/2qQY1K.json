@@ -1,0 +1,209 @@
+{
+  "liked": false,
+  "tags": [
+    "starwars",
+    "anakin",
+    "obiwankenobi",
+    "conceptart",
+    "animation",
+    "cartoon"
+  ],
+  "hide_as_adult": false,
+  "visible_on_artstation": true,
+  "assets": [
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 49831331,
+      "title": "",
+      "title_formatted": "",
+      "image_url": "https://cdnb.artstation.com/p/assets/images/images/049/831/331/large/higor-amaral-3ccefbb3-c256-4bfc-a49b-18590936a50a.jpg?1653420674",
+      "width": 2048,
+      "height": 2048,
+      "position": 0,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": false,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 59537250,
+      "title": null,
+      "title_formatted": "",
+      "image_url": "https://cdna.artstation.com/p/assets/covers/images/059/537/250/large/higor-amaral-higor-amaral-d7025555-768b-48d4-a7b7-5ac126b4137f.jpg?1676587266",
+      "width": 790,
+      "height": 773,
+      "position": 0,
+      "asset_type": "cover",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 49831327,
+      "title": "",
+      "title_formatted": "",
+      "image_url": "https://cdnb.artstation.com/p/assets/images/images/049/831/327/large/higor-amaral-17639ef8-43f0-4ec9-8e5f-9d771d967f94.jpg?1653420667",
+      "width": 2048,
+      "height": 2048,
+      "position": 1,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 49831724,
+      "title": "",
+      "title_formatted": "",
+      "image_url": "https://cdna.artstation.com/p/assets/images/images/049/831/724/large/higor-amaral-ccb643ef-e9af-4eed-9402-d119d12da23f.jpg?1653421085",
+      "width": 2048,
+      "height": 2048,
+      "position": 2,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 49831272,
+      "title": "",
+      "title_formatted": "",
+      "image_url": "https://cdna.artstation.com/p/assets/images/images/049/831/272/large/higor-amaral-97d23fe7-c600-4fdb-862d-4e5f8cd97120.jpg?1653420591",
+      "width": 2048,
+      "height": 2048,
+      "position": 3,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 49831291,
+      "title": "",
+      "title_formatted": "",
+      "image_url": "https://cdnb.artstation.com/p/assets/images/images/049/831/291/large/higor-amaral-99875dc1-3593-4eb4-a4d2-1f15beae521f.jpg?1653420611",
+      "width": 2048,
+      "height": 2048,
+      "position": 4,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 49831336,
+      "title": "",
+      "title_formatted": "",
+      "image_url": "https://cdna.artstation.com/p/assets/images/images/049/831/336/large/higor-amaral-6c5948a8-c276-4b3a-9c3c-51b176116eae.jpg?1653420680",
+      "width": 2048,
+      "height": 826,
+      "position": 5,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 49831316,
+      "title": "",
+      "title_formatted": "",
+      "image_url": "https://cdna.artstation.com/p/assets/images/images/049/831/316/large/higor-amaral-521b607f-4e53-4c02-8279-c31bd027889c.jpg?1653420632",
+      "width": 2048,
+      "height": 2048,
+      "position": 6,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    }
+  ],
+  "collections": [],
+  "user": {
+    "followed": false,
+    "following_back": false,
+    "blocked": false,
+    "is_staff": false,
+    "is_plus_member": false,
+    "is_studio_account": false,
+    "is_school_account": false,
+    "id": 1147213,
+    "username": "higoramarall",
+    "headline": "Ilustration, Character Design, Cencept art",
+    "full_name": "Higor  Amaral",
+    "permalink": "https://www.artstation.com/higoramarall",
+    "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/001/147/213/medium/ca9eaf92db40475182734cb9dfdf30cc.jpg?1641493113",
+    "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/001/147/213/large/ca9eaf92db40475182734cb9dfdf30cc.jpg?1641493113",
+    "small_cover_url": "https://cdnb.artstation.com/p/users/covers/001/147/213/small/1f905cdcdba5fd02cc7214305a588807.jpg?1689107957",
+    "pro_member": false
+  },
+  "medium": {
+    "name": "Digital 2D",
+    "id": 1
+  },
+  "mediums": [
+    {
+      "name": "Digital 2D",
+      "id": 1
+    },
+    {
+      "name": "Mixed Media",
+      "id": 14
+    }
+  ],
+  "categories": [
+    {
+      "name": "Illustration",
+      "id": 27
+    },
+    {
+      "name": "Fan Art",
+      "id": 43
+    },
+    {
+      "name": "Character Animation",
+      "id": 67
+    }
+  ],
+  "software_items": [
+    {
+      "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/183/default/Icon.png?1487948438",
+      "name": "Procreate"
+    }
+  ],
+  "id": 12888629,
+  "user_id": 1147213,
+  "title": "Anakin vs Obi-wan Kenobi concept",
+  "description": "<p>Fanart and concept art for battle star wars ep III</p>",
+  "description_html": "<p>Fanart and concept art for battle star wars ep III</p>",
+  "created_at": "2022-05-24T14:41:58.642-05:00",
+  "updated_at": "2023-02-16T16:41:10.618-06:00",
+  "views_count": 650,
+  "likes_count": 4,
+  "comments_count": 0,
+  "permalink": "https://www.artstation.com/artwork/2qQY1K",
+  "cover_url": "https://cdna.artstation.com/p/assets/covers/images/059/537/250/medium/higor-amaral-higor-amaral-d7025555-768b-48d4-a7b7-5ac126b4137f.jpg?1676587266",
+  "published_at": "2022-05-24T14:41:58.629-05:00",
+  "editor_pick": false,
+  "adult_content": false,
+  "admin_adult_content": false,
+  "slug": "anakin-vs-obi-wan-kenobi-concept",
+  "suppressed": false,
+  "hash_id": "2qQY1K",
+  "visible": true,
+  "is_promotional": false
+}

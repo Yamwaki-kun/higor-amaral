@@ -61,7 +61,8 @@ export default {
     const projectId = this.$route.params.id; // Obtém o ID da URL
 
     try {
-      const response = await axios.get(`/api/projects/${projectId}.json`);
+      // Tenta carregar os detalhes do projeto da API
+      const response = await axios.get(`http://localhost:3000/api/projects/${projectId}`);
 
       console.log("Detalhes do Projeto:", response.data);
 
@@ -75,7 +76,26 @@ export default {
         })),
       };
     } catch (error) {
-      console.error("Erro ao carregar detalhes do projeto:", error);
+      console.error("Erro ao carregar detalhes do projeto, tentando cache local...");
+
+      try {
+        // Se a API falhar, busca os dados do cache local
+        const cacheResponse = await axios.get(`/src/views/cache/projects_details_cache/${projectId}.json`);
+
+        console.log("Carregado do cache local:", cacheResponse.data);
+
+        this.project = {
+          title: cacheResponse.data.title,
+          description: cacheResponse.data.description || "<p>Sem descrição disponível.</p>",
+          published_at: cacheResponse.data.published_at || new Date().toISOString(),
+          media: cacheResponse.data.assets.map((asset) => ({
+            url: asset.player_embedded || asset.image_url,
+            type: asset.player_embedded ? "iframe" : "image",
+          })),
+        };
+      } catch (cacheError) {
+        console.error("Erro ao carregar cache local:", cacheError);
+      }
     } finally {
       this.loading = false;
     }

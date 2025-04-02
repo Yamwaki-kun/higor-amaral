@@ -34,29 +34,28 @@ export default {
   },
   async created() {
     try {
-      const response = await axios.get(
-      "/api/users/higoramarall/projects.json",
-      {
-        headers: {
-          'Accepts': 'application/json',
-          "Acesss-Control-Allow-Origin": "*",
-        }
-      }
-    );
+      const response = await axios.get("http://localhost:3000/api/projects");
 
       this.images = response.data.data.map((project) => ({
         id: project.hash_id,
         src: project.cover.thumb_url,
         title: project.title,
       }));
-
-      // Simulando um pequeno delay para a animação ser visível
-      setTimeout(() => {
-        this.isLoading = false;
-      }, 1000);
     } catch (error) {
-      console.error("Erro ao carregar dados:", error);
-      this.isLoading = false; // Esconde o loading mesmo se houver erro
+      console.error("Erro ao carregar dados da API, tentando cache local...");
+
+      try {
+        const cacheResponse = await axios.get("/src/views/cache/projects_cache.json"); // Busca do cache local
+        this.images = cacheResponse.data.data.map((project) => ({
+          id: project.hash_id,
+          src: project.cover.thumb_url,
+          title: project.title,
+        }));
+      } catch (cacheError) {
+        console.error("Erro ao carregar cache local:", cacheError);
+      }
+    } finally {
+      this.isLoading = false;
     }
   },
   methods: {

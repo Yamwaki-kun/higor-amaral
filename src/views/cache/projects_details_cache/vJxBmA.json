@@ -1,0 +1,242 @@
+{
+  "liked": false,
+  "tags": [
+    "conceptart",
+    "batman villains cartoon",
+    "dc",
+    "batman",
+    "concept for animation"
+  ],
+  "hide_as_adult": false,
+  "visible_on_artstation": true,
+  "assets": [
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 48710400,
+      "title": "Poison ivy",
+      "title_formatted": "<div class=\"asset-caption\"><p>Poison ivy</p></div>",
+      "image_url": "https://cdna.artstation.com/p/assets/images/images/048/710/400/large/higor-amaral-07d01ea0-60x-4363-9e86-c88c1988344e.jpg?1650729287",
+      "width": 2048,
+      "height": 2048,
+      "position": 0,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": false,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 59536672,
+      "title": null,
+      "title_formatted": "",
+      "image_url": "https://cdna.artstation.com/p/assets/covers/images/059/536/672/large/higor-amaral-higor-amaral-32e7d821-cb9c-46c3-9f6f-ac9dfaa3a407.jpg?1676586249",
+      "width": 2048,
+      "height": 2048,
+      "position": 0,
+      "asset_type": "cover",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 48710403,
+      "title": "The joker and Harley quinn",
+      "title_formatted": "<div class=\"asset-caption\"><p>The joker and Harley quinn</p></div>",
+      "image_url": "https://cdnb.artstation.com/p/assets/images/images/048/710/403/large/higor-amaral-1726db4d-7e41-4ec8-b948-011d08ac14c1.jpg?1650729293",
+      "width": 2048,
+      "height": 2048,
+      "position": 1,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 48710406,
+      "title": "Mr freeze",
+      "title_formatted": "<div class=\"asset-caption\"><p>Mr freeze</p></div>",
+      "image_url": "https://cdna.artstation.com/p/assets/images/images/048/710/406/large/higor-amaral-c0e4e119-7069-46b0-817b-5c29b2e98d8f.jpg?1650729300",
+      "width": 2048,
+      "height": 2048,
+      "position": 2,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 48710418,
+      "title": "Killer croc",
+      "title_formatted": "<div class=\"asset-caption\"><p>Killer croc</p></div>",
+      "image_url": "https://cdna.artstation.com/p/assets/images/images/048/710/418/large/higor-amaral-4dc7e3aa-5813-4198-8de4-5f4d66b411c7.jpg?1650729311",
+      "width": 2048,
+      "height": 2048,
+      "position": 3,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 48710423,
+      "title": "The Riddler",
+      "title_formatted": "<div class=\"asset-caption\"><p>The Riddler</p></div>",
+      "image_url": "https://cdnb.artstation.com/p/assets/images/images/048/710/423/large/higor-amaral-c5a5e055-286f-4de4-9d56-d48043169cd2.jpg?1650729325",
+      "width": 2048,
+      "height": 2048,
+      "position": 4,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 48710426,
+      "title": "The Penguin",
+      "title_formatted": "<div class=\"asset-caption\"><p>The Penguin</p></div>",
+      "image_url": "https://cdna.artstation.com/p/assets/images/images/048/710/426/large/higor-amaral-b49ee0da-2bff-45f0-9691-d69018f42450.jpg?1650729332",
+      "width": 2048,
+      "height": 2048,
+      "position": 5,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 48710432,
+      "title": "BANE",
+      "title_formatted": "<div class=\"asset-caption\"><p>BANE</p></div>",
+      "image_url": "https://cdna.artstation.com/p/assets/images/images/048/710/432/large/higor-amaral-7286fb7d-85b3-4f9e-817e-2fe4e56340dc.jpg?1650729339",
+      "width": 2048,
+      "height": 2048,
+      "position": 6,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 48710435,
+      "title": "Scarecrow",
+      "title_formatted": "<div class=\"asset-caption\"><p>Scarecrow</p></div>",
+      "image_url": "https://cdnb.artstation.com/p/assets/images/images/048/710/435/large/higor-amaral-95a5e4b3-16a8-4a92-b6e4-ac7b839cdc47.jpg?1650729345",
+      "width": 2048,
+      "height": 2048,
+      "position": 7,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 48710449,
+      "title": "Two Face",
+      "title_formatted": "<div class=\"asset-caption\"><p>Two Face</p></div>",
+      "image_url": "https://cdnb.artstation.com/p/assets/images/images/048/710/449/large/higor-amaral-480938fc-b852-42eb-bfa4-330fe70175dc.jpg?1650729351",
+      "width": 2048,
+      "height": 2048,
+      "position": 8,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    }
+  ],
+  "collections": [],
+  "user": {
+    "followed": false,
+    "following_back": false,
+    "blocked": false,
+    "is_staff": false,
+    "is_plus_member": false,
+    "is_studio_account": false,
+    "is_school_account": false,
+    "id": 1147213,
+    "username": "higoramarall",
+    "headline": "Ilustration, Character Design, Cencept art",
+    "full_name": "Higor  Amaral",
+    "permalink": "https://www.artstation.com/higoramarall",
+    "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/001/147/213/medium/ca9eaf92db40475182734cb9dfdf30cc.jpg?1641493113",
+    "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/001/147/213/large/ca9eaf92db40475182734cb9dfdf30cc.jpg?1641493113",
+    "small_cover_url": "https://cdnb.artstation.com/p/users/covers/001/147/213/small/1f905cdcdba5fd02cc7214305a588807.jpg?1689107957",
+    "pro_member": false
+  },
+  "medium": {
+    "name": "Digital 2D",
+    "id": 1
+  },
+  "mediums": [
+    {
+      "name": "Digital 2D",
+      "id": 1
+    },
+    {
+      "name": "Animation",
+      "id": 6
+    },
+    {
+      "name": "Mixed Media",
+      "id": 14
+    }
+  ],
+  "categories": [
+    {
+      "name": "Concept Art",
+      "id": 3
+    },
+    {
+      "name": "Character Design",
+      "id": 65
+    },
+    {
+      "name": "Character Animation",
+      "id": 67
+    }
+  ],
+  "software_items": [
+    {
+      "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/183/default/Icon.png?1487948438",
+      "name": "Procreate"
+    }
+  ],
+  "id": 12640628,
+  "user_id": 1147213,
+  "title": "Batman Villains",
+  "description": "<p>Concept art of Batman villains . My style</p>",
+  "description_html": "<p>Concept art of Batman villains . My style</p>",
+  "created_at": "2022-04-23T11:01:57.525-05:00",
+  "updated_at": "2023-07-24T06:54:39.143-05:00",
+  "views_count": 238,
+  "likes_count": 2,
+  "comments_count": 0,
+  "permalink": "https://www.artstation.com/artwork/vJxBmA",
+  "cover_url": "https://cdna.artstation.com/p/assets/covers/images/059/536/672/medium/higor-amaral-higor-amaral-32e7d821-cb9c-46c3-9f6f-ac9dfaa3a407.jpg?1676586249",
+  "published_at": "2022-04-23T11:01:57.506-05:00",
+  "editor_pick": false,
+  "adult_content": false,
+  "admin_adult_content": false,
+  "slug": "batman-villains-14-30a76d32-b4b8-4e39-bb59-16ace44bcee0",
+  "suppressed": false,
+  "hash_id": "vJxBmA",
+  "visible": true,
+  "is_promotional": false
+}

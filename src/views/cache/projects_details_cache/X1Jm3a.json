@@ -1,0 +1,120 @@
+{
+  "liked": false,
+  "tags": [
+    "#gun",
+    "#magic",
+    "#portalweapon"
+  ],
+  "hide_as_adult": false,
+  "visible_on_artstation": true,
+  "assets": [
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 44925734,
+      "title": "",
+      "title_formatted": "",
+      "image_url": "https://cdna.artstation.com/p/assets/images/images/044/925/734/large/higor-amaral-accbdcd1-f881-4019-bab6-b71348482d19.jpg?1641495212",
+      "width": 4085,
+      "height": 2048,
+      "position": 0,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 44925751,
+      "title": "",
+      "title_formatted": "",
+      "image_url": "https://cdnb.artstation.com/p/assets/images/images/044/925/751/large/higor-amaral-a6a09aec-8f21-4105-8ad3-25667d8207cb.jpg?1641495243",
+      "width": 4085,
+      "height": 2048,
+      "position": 1,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    }
+  ],
+  "collections": [],
+  "user": {
+    "followed": false,
+    "following_back": false,
+    "blocked": false,
+    "is_staff": false,
+    "is_plus_member": false,
+    "is_studio_account": false,
+    "is_school_account": false,
+    "id": 1147213,
+    "username": "higoramarall",
+    "headline": "Ilustration, Character Design, Cencept art",
+    "full_name": "Higor  Amaral",
+    "permalink": "https://www.artstation.com/higoramarall",
+    "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/001/147/213/medium/ca9eaf92db40475182734cb9dfdf30cc.jpg?1641493113",
+    "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/001/147/213/large/ca9eaf92db40475182734cb9dfdf30cc.jpg?1641493113",
+    "small_cover_url": "https://cdnb.artstation.com/p/users/covers/001/147/213/small/1f905cdcdba5fd02cc7214305a588807.jpg?1689107957",
+    "pro_member": false
+  },
+  "medium": {
+    "name": "Digital 2D",
+    "id": 1
+  },
+  "mediums": [
+    {
+      "name": "Digital 2D",
+      "id": 1
+    },
+    {
+      "name": "Animation",
+      "id": 6
+    },
+    {
+      "name": "Mixed Media",
+      "id": 14
+    }
+  ],
+  "categories": [
+    {
+      "name": "Fantasy",
+      "id": 2
+    },
+    {
+      "name": "Weapons",
+      "id": 22
+    },
+    {
+      "name": "Character Design",
+      "id": 65
+    }
+  ],
+  "software_items": [
+    {
+      "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/183/default/Icon.png?1487948438",
+      "name": "Procreate"
+    }
+  ],
+  "id": 11750206,
+  "user_id": 1147213,
+  "title": "Letrx's magic wand",
+  "description": "<p>Bibith …. bobith…. Poooowww !!!!!</p>",
+  "description_html": "<p>Bibith …. bobith…. Poooowww !!!!!</p>",
+  "created_at": "2022-01-06T13:00:45.820-06:00",
+  "updated_at": "2022-01-10T03:23:14.867-06:00",
+  "views_count": 159,
+  "likes_count": 2,
+  "comments_count": 0,
+  "permalink": "https://www.artstation.com/artwork/X1Jm3a",
+  "cover_url": "https://cdna.artstation.com/p/assets/images/images/044/925/734/medium/higor-amaral-accbdcd1-f881-4019-bab6-b71348482d19.jpg?1641495212",
+  "published_at": "2022-01-06T13:00:45.810-06:00",
+  "editor_pick": false,
+  "adult_content": false,
+  "admin_adult_content": false,
+  "slug": "letrx-s-magic-wand",
+  "suppressed": false,
+  "hash_id": "X1Jm3a",
+  "visible": true,
+  "is_promotional": false
+}

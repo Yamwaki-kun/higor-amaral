@@ -1,0 +1,134 @@
+{
+  "liked": false,
+  "tags": [
+    "leagueoflegends",
+    "arcane",
+    "animation",
+    "netflix",
+    "riotgames",
+    "cartoon"
+  ],
+  "hide_as_adult": false,
+  "visible_on_artstation": true,
+  "assets": [
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 44927625,
+      "title": "",
+      "title_formatted": "",
+      "image_url": "https://cdnb.artstation.com/p/assets/images/images/044/927/625/large/higor-amaral-193700b5-0aaa-4dbb-b2ed-04b9f719b89b.jpg?1641498554",
+      "width": 1963,
+      "height": 2402,
+      "position": 0,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": false,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 59540792,
+      "title": null,
+      "title_formatted": "",
+      "image_url": "https://cdna.artstation.com/p/assets/covers/images/059/540/792/large/higor-amaral-higor-amaral-16ad5eb7-da22-4a8e-a3b0-b34253a7766b.jpg?1676596418",
+      "width": 834,
+      "height": 761,
+      "position": 0,
+      "asset_type": "cover",
+      "viewport_constraint_type": "constrained"
+    },
+    {
+      "has_image": true,
+      "has_embedded_player": false,
+      "player_embedded": null,
+      "oembed": null,
+      "id": 44927629,
+      "title": "",
+      "title_formatted": "",
+      "image_url": "https://cdnb.artstation.com/p/assets/images/images/044/927/629/large/higor-amaral-a3bb31f6-a4ee-463a-88e2-7dd5ea06723f.jpg?1641498565",
+      "width": 1963,
+      "height": 2402,
+      "position": 1,
+      "asset_type": "image",
+      "viewport_constraint_type": "constrained"
+    }
+  ],
+  "collections": [],
+  "user": {
+    "followed": false,
+    "following_back": false,
+    "blocked": false,
+    "is_staff": false,
+    "is_plus_member": false,
+    "is_studio_account": false,
+    "is_school_account": false,
+    "id": 1147213,
+    "username": "higoramarall",
+    "headline": "Ilustration, Character Design, Cencept art",
+    "full_name": "Higor  Amaral",
+    "permalink": "https://www.artstation.com/higoramarall",
+    "medium_avatar_url": "https://cdnb.artstation.com/p/users/avatars/001/147/213/medium/ca9eaf92db40475182734cb9dfdf30cc.jpg?1641493113",
+    "large_avatar_url": "https://cdnb.artstation.com/p/users/avatars/001/147/213/large/ca9eaf92db40475182734cb9dfdf30cc.jpg?1641493113",
+    "small_cover_url": "https://cdnb.artstation.com/p/users/covers/001/147/213/small/1f905cdcdba5fd02cc7214305a588807.jpg?1689107957",
+    "pro_member": false
+  },
+  "medium": {
+    "name": "Digital 2D",
+    "id": 1
+  },
+  "mediums": [
+    {
+      "name": "Digital 2D",
+      "id": 1
+    },
+    {
+      "name": "Animation",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "name": "Concept Art",
+      "id": 3
+    },
+    {
+      "name": "Fan Art",
+      "id": 43
+    },
+    {
+      "name": "Character Animation",
+      "id": 67
+    }
+  ],
+  "software_items": [
+    {
+      "icon_url": "https://cdnb.artstation.com/p/softwares/icons/000/000/183/default/Icon.png?1487948438",
+      "name": "Procreate"
+    }
+  ],
+  "id": 11750605,
+  "user_id": 1147213,
+  "title": "VI and Jinx",
+  "description": "<p>Fanart make for animation serie Arcane , in which I was one of the chosen ones for this art to be the marketing of the arcane series</p>",
+  "description_html": "<p>Fanart make for animation serie Arcane , in which I was one of the chosen ones for this art to be the marketing of the arcane series</p>",
+  "created_at": "2022-01-06T13:59:00.005-06:00",
+  "updated_at": "2023-02-16T19:13:43.157-06:00",
+  "views_count": 97,
+  "likes_count": 1,
+  "comments_count": 0,
+  "permalink": "https://www.artstation.com/artwork/o2J4RW",
+  "cover_url": "https://cdna.artstation.com/p/assets/covers/images/059/540/792/medium/higor-amaral-higor-amaral-16ad5eb7-da22-4a8e-a3b0-b34253a7766b.jpg?1676596418",
+  "published_at": "2022-01-06T13:58:59.999-06:00",
+  "editor_pick": false,
+  "adult_content": false,
+  "admin_adult_content": false,
+  "slug": "vi-and-jinx-7",
+  "suppressed": false,
+  "hash_id": "o2J4RW",
+  "visible": true,
+  "is_promotional": false
+}

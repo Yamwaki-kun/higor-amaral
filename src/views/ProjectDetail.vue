@@ -61,7 +61,7 @@ export default {
     const projectId = this.$route.params.id; // Obtém o ID da URL
 
     try {
-      const response = await axios.get(`https://www.artstation.com/projects/${projectId}.json`);
+      const response = await axios.get(`/api/projects/${projectId}.json`);
 
       console.log("Detalhes do Projeto:", response.data);
 

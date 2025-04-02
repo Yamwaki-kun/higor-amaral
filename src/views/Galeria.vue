@@ -35,7 +35,7 @@ export default {
   async created() {
     try {
       const response = await axios.get(
-        "https://www.artstation.com/users/higoramarall/projects.json"
+        "/api/users/higoramarall/projects.json"
       );
 
       this.images = response.data.data.map((project) => ({

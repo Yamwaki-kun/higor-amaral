@@ -2,6 +2,18 @@ import { defineConfig } from 'vite';
 import vue from '@vitejs/plugin-vue';
 
 export default defineConfig({
-  base: '/', // Define o caminho base do projeto
+  
+    server:{
+      port:3000,
+      proxy:{
+        '/api':{
+      target: "https://www.artstation.com/",
+      changeOrigin: true,
+      rewrite: (path) => path.replace(/^\/api/, ''),
+    },
+      }
+    },
+    
+  base: '/', 
   plugins: [vue()]
 });

@@ -35,8 +35,14 @@ export default {
   async created() {
     try {
       const response = await axios.get(
-        "/api/users/higoramarall/projects.json"
-      );
+      "/api/users/higoramarall/projects.json",
+      {
+        headers: {
+          'Accepts': 'application/json',
+          "Acesss-Control-Allow-Origin": "*",
+        }
+      }
+    );
 
       this.images = response.data.data.map((project) => ({
         id: project.hash_id,

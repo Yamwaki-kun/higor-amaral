@@ -4,10 +4,9 @@ import vue from '@vitejs/plugin-vue';
 export default defineConfig({
   
     server:{
-      port:3000,
       proxy:{
         '/api':{
-      target: "https://www.artstation.com/",
+      target: "https://www.artstation.com",
       changeOrigin: true,
       rewrite: (path) => path.replace(/^\/api/, ''),
     },

@@ -176,7 +176,7 @@ export default {
   height: auto;
   object-fit: cover;
   margin-top: 30px;
-  margin-left: 20%;
+  margin-left: 10%;
 }
 
 /* Container para iframes */
@@ -199,7 +199,8 @@ export default {
   flex-direction: column;
   padding-left: 0%;
   margin-right: 10%;
-  margin-left: 20%;
+  padding-left: 10%;
+  margin-left: 0%;
   gap: 10px;
 }
 

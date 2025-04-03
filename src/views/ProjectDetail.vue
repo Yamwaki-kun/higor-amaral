@@ -32,11 +32,11 @@
             <div v-else-if="media.type === 'iframe'" class="iframe-container" v-html="media.url"></div>
           </template>
         </div>
-
+      <div class="center-space"></div>
         <div class="text-container">
           <h1 class="title">{{ project.title }}</h1>
           <div class="description" v-html="project.description"></div>
-          <p class="date">Publicado em: {{ formatDate(project.published_at) }}</p>
+          <p class="date">Date: {{ formatDate(project.published_at) }}</p>
         </div>
       </div>
     </div>
@@ -109,13 +109,16 @@ export default {
     },
     formatDate(dateString) {
       const options = { year: "numeric", month: "long", day: "numeric" };
-      return new Date(dateString).toLocaleDateString("pt-BR", options);
+      return new Date(dateString).toLocaleDateString("en-US", options);
     },
   },
 };
 </script>
 
 <style>
+.center-space{
+  width: 10%;
+}
 /* LOADING */
 .loading-container {
   position: fixed; /* Garante que o loading fique sobre toda a tela */
@@ -134,6 +137,7 @@ export default {
   text-align: center;
   min-height: 100vh;
   display: flex;
+  justify-content: center;
   
 }
 
@@ -143,7 +147,7 @@ export default {
   align-items: flex-start;
   width: 100vw;
   margin: 20px auto;
-  max-width: 1600px;
+  max-width: 100vw;
   gap: 30px;
 }
 
@@ -162,16 +166,17 @@ export default {
   flex-direction: column;
   gap: 10px;
   flex: 1;
-  margin-left: 200px;
+  margin-left: 50px;
   width: 100%;
 }
 
 .project-media {
   width: 100%;
-  max-width: 98%; /* Ocupa toda a largura do container */
+  max-width: 100%; /* Ocupa toda a largura do container */
   height: auto;
   object-fit: cover;
   margin-top: 30px;
+  margin-left: 20%;
 }
 
 /* Container para iframes */
@@ -192,12 +197,14 @@ export default {
   text-align: left;
   display: flex;
   flex-direction: column;
-  padding-left: 100px;
+  padding-left: 0%;
+  margin-right: 10%;
+  margin-left: 20%;
   gap: 10px;
 }
 
 .title {
-  font-size: 24px;
+  font-size: 34px;
   font-weight: bold;
   color: #000;
 }
@@ -218,15 +225,22 @@ export default {
     width: 90%;
     margin-left: 0px; /* Remove o deslocamento lateral no mobile */
   }
+  .title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+}
+
+.project-media {
+  margin-left: 0;
+}
 
   /* Texto */
 .text-container {
-  flex: 1;
-  text-align: left;
-  display: flex;
-  flex-direction: column;
-  padding: 20px;
-  gap: 10px;
+  width: 90%;
+  margin-right: 0%;
+  margin-left: 0%;
+  
 }
 
 .project-details {

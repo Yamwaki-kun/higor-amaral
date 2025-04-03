@@ -116,6 +116,20 @@ export default {
 </script>
 
 <style>
+/* LOADING */
+.loading-container {
+  position: fixed; /* Garante que o loading fique sobre toda a tela */
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(255, 255, 255, 0.8); /* Leve transparência opcional */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999; /* Certifica-se de que fica acima de tudo */
+}
+
 .project-details {
   text-align: center;
   min-height: 100vh;
@@ -139,7 +153,6 @@ export default {
   flex-direction: column;
   align-items: center;
   width: 100%;
-  margin: 20px auto;
   text-align: center;
 }
 
@@ -155,7 +168,7 @@ export default {
 
 .project-media {
   width: 100%;
-  max-width: 100%; /* Ocupa toda a largura do container */
+  max-width: 98%; /* Ocupa toda a largura do container */
   height: auto;
   object-fit: cover;
   margin-top: 30px;
@@ -202,12 +215,27 @@ export default {
 /* Ajuste para Mobile */
 @media (max-width: 768px) {
   .media-container {
+    width: 90%;
     margin-left: 0px; /* Remove o deslocamento lateral no mobile */
   }
 
-  .text-container {
-    padding-left: 0; /* Remove o deslocamento do texto no mobile */
-    text-align: center; /* Centraliza o texto no mobile */
-  }
+  /* Texto */
+.text-container {
+  flex: 1;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 10px;
+}
+
+.project-details {
+  text-align: center;
+  min-height: 100vh;
+  width: 98%;
+  
+  display: flex;
+  
+}
 }
 </style>

@@ -76,18 +76,10 @@ export default {
   background: #ffffff;
 }
 
-
-@keyframes spin {
-  to {
-    transform: rotate(360deg);
-  }
-}
-
 /* GALERIA */
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Cria colunas responsivas */
-  margin-left: 60px; /* Margem de 60px na esquerda */
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Cria colunas responsivas */ /* Margem de 60px na esquerda */
 }
 
 .gallery-item-wrapper {

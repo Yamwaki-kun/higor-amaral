@@ -2,7 +2,9 @@
 <template>
   <div id="app">
     <Navbar />
-    <router-view />
+    <div class="content">
+      <router-view />
+      </div>
   </div>
 </template>
 
@@ -17,7 +19,14 @@ export default {
 #app {
   min-height: 100vh;
   width: 100%;
+
   flex-direction: column;
+}
+
+.content {
+  flex-grow: 1;
+  padding-left: 60px; /* Largura da sidebar */
+  transition: padding-left 0.3s ease-in-out;
 }
 
 body {
@@ -25,6 +34,9 @@ body {
   color: #fff;
   font-family: Arial, sans-serif;
   width: 100%;
+  margin: 0px;
   overflow-x: hidden;
+  
 }
+
 </style>

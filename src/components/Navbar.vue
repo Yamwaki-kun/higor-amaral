@@ -6,8 +6,8 @@
       <button class="menu-btn" :class="{ active: isOpen }" @click="toggleMenu">
         <div class="menu-text">
           <span class="menu-word">MENU</span>
+          <span class="menu-icon">☰</span>
         </div>
-        <span class="menu-icon">☰</span>
       </button>
     </div>
 
@@ -18,23 +18,28 @@
         <ul>
           <li @click="navigateTo('/')">Home page</li>
           <li @click="navigateTo('/resume')">Resume</li>
-          <li @click="navigateTo('/portfolio')">Portfolio</li>
-          <li @click="navigateTo('/instagram')">Instagram</li>
-          <li @click="navigateTo('/artbook')">Artbook</li>
-          <li @click="navigateTo('/prints')">Prints</li>
+          <li @click="navigateTo('/')">Portfolio</li>
+          <li><a href="https://www.instagram.com/higorarts/" class="menu-link" target="_blank">Instagram</a></li>
           <li @click="navigateTo('/contact')">Contact</li>
-          <li @click="navigateTo('/cart')">Cart</li>
         </ul>
 
         <!-- Seção inferior com redes sociais e direitos reservados -->
         <div class="bottom-section">
           <div class="social-icons">
-            <i class="fa-brands fa-artstation"></i>
-            <i class="fa-brands fa-linkedin"></i>
-            <i class="fa-brands fa-x-twitter"></i>
-            <i class="fa-brands fa-instagram"></i>
+            <a href="https://www.artstation.com/higoramarall" target="_blank">
+              <i class="fa-brands fa-artstation"style="color: black;"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/higor-amaral-b66498178/" target="_blank">
+              <i class="fa-brands fa-linkedin"style="color: black;"></i>
+            </a>
+            <a href="https://x.com/seuusuario" target="_blank">
+              <i class="fa-brands fa-x-twitter" style="color: black;"></i>
+            </a>
+            <a href="https://www.instagram.com/higorarts/" target="_blank">
+              <i class="fa-brands fa-instagram" style="color: black;"></i>
+            </a>
           </div>
-          <p class="copyright">© 2024 Higor Amaral. Todos os direitos reservados.</p>
+          <p class="copyright">© 2025 Higor Amaral. Todos os direitos reservados.</p>
         </div>
       </nav>
     </div>
@@ -66,10 +71,13 @@ export default {
 <style scoped>
 .sidebar-container {
   display: flex;
+  position: relative;
   align-items: stretch;
 }
+
 .menu-icon {
   margin-top: 5px;
+  margin-left: 3px;
   font-size: 20px;
   transform: rotate(90deg);
 }
@@ -79,7 +87,7 @@ export default {
   top: 0;
   left: 0;
   width: 40px;
-  height: 100vh;
+  height: 100%;
   background: #fff;
   display: flex;
   flex-direction: column;
@@ -87,7 +95,8 @@ export default {
   padding: 10px;
   transition: background 0.3s;
   z-index: 1000;
-  box-shadow: 0 1px 0 1px rgba(0, 0, 0, .1) /* Adicionando a linha na direita */
+  box-shadow: 0 1px 0 1px rgba(0, 0, 0, .1)
+    /* Adicionando a linha na direita */
 }
 
 .sidebaropen {
@@ -139,7 +148,7 @@ export default {
 .menu-word {
   writing-mode: vertical-rl;
   transform: rotate(180deg);
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 100;
 }
 
@@ -167,7 +176,7 @@ export default {
 .close-btn {
   position: absolute;
   top: 10px;
-  right: 15px;
+  right: 0px;
   background: none;
   border: none;
   font-size: 24px;
@@ -210,6 +219,16 @@ export default {
   transition: background 0.2s ease-in-out;
 }
 
+.menu-link {
+  position: relative;
+  padding: 15px;
+  cursor: pointer;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  transition: background 0.2s ease-in-out;
+}
+
 .menu li::after {
   content: "";
   display: block;
@@ -245,5 +264,58 @@ export default {
   text-align: center;
 }
 
+/* Ajuste para Mobile */
+@media (max-width: 768px) {
 
+  .menu-sidebar.open {
+    height: 100%;
+    width: min(250px, 100vw);
+  }
+
+  /*.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vh;
+  height: 40px;
+  background: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  transition: background 0.3s;
+  z-index: 1000;
+  box-shadow: 0 1px 0 1px rgba(0, 0, 0, .1) /* Adicionando a linha na direita */
+}
+
+/*.artist-name {
+  writing-mode: horizontal-tb;
+  transform: rotate(0deg);
+  font-size: 25px;
+  font-weight: bold;
+  color: #000;
+  position: absolute;
+
+  cursor: pointer;
+  transition: color 0.3s ease-in-out;
+}
+.menu-word {
+  writing-mode: horizontal-tb;
+  font-size: 0px;
+  font-weight: 100;
+}
+
+.menu-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #000;
+  font-size: 18px;
+  transition: color 0.3s ease-in-out;
+  outline: none;
+}
+}*/
 </style>

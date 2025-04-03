@@ -101,6 +101,7 @@ export default {
 
 .sidebaropen {
   background: #C7EA46;
+  box-shadow: 0 0 0 0 rgba(0, 0, 0, .1)
 }
 
 .artist-name {

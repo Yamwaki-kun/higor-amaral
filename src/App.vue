@@ -32,7 +32,6 @@ export default {
 body {
   background-color: #fff;
   color: #fff;
-  font-family: Arial, sans-serif;
   width: 100%;
   margin: 0px;
   overflow-x: hidden;

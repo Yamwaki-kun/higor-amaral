@@ -2,7 +2,7 @@
   <div class="sidebar-container">
     <!-- Primeira barra fixa com nome e menu -->
     <div class="sidebar" :class="{ sidebaropen: isOpen }">
-      <span class="artist-name" @click="goToHome">Higor Amaral</span>
+      <!---<span class="artist-name" @click="goToHome">Higor Amaral</span> -->
       <button class="menu-btn" :class="{ active: isOpen }" @click="toggleMenu">
         <div class="menu-text">
           <span class="menu-word">MENU</span>
@@ -26,13 +26,13 @@
         <!-- Seção inferior com redes sociais e direitos reservados -->
         <div class="bottom-section">
           <div class="social-icons">
-            <a href="https://www.artstation.com/higoramarall" target="_blank">
-              <i class="fa-brands fa-artstation"style="color: black;"></i>
+            <a href="https://www.behance.net/higoramaral" target="_blank">
+              <i class="fa-brands fa-square-behance"style="color: black;"></i>
             </a>
             <a href="https://www.linkedin.com/in/higor-amaral-b66498178/" target="_blank">
               <i class="fa-brands fa-linkedin"style="color: black;"></i>
             </a>
-            <a href="https://x.com/seuusuario" target="_blank">
+            <a href="https://x.com/hiigorarts" target="_blank">
               <i class="fa-brands fa-x-twitter" style="color: black;"></i>
             </a>
             <a href="https://www.instagram.com/higorarts/" target="_blank">
@@ -87,7 +87,7 @@ export default {
   top: 0;
   left: 0;
   width: 40px;
-  height: 100%;
+  height: 100dvh;
   background: #fff;
   display: flex;
   flex-direction: column;
@@ -158,7 +158,7 @@ export default {
   top: 0;
   left: 60px;
   width: 0;
-  height: 100vh;
+  height: 100dvh;
   background: #c7ea46;
   overflow: hidden;
   transition: width 0.3s ease-in-out;
@@ -196,7 +196,7 @@ export default {
   text-align: center;
   display: flex;
   flex-direction: column;
-  height: 100%;
+  height: 100dvh;
   justify-content: flex-end;
   padding-bottom: 20px;
 }
@@ -261,6 +261,7 @@ export default {
   font-size: 14px;
   color: black;
   margin-top: 10px;
+  margin: 10px;
   text-align: center;
 }
 
@@ -268,7 +269,7 @@ export default {
 @media (max-width: 768px) {
 
   .menu-sidebar.open {
-    height: 100%;
+    height: 100vh;
     width: min(250px, 100vw);
   }
 

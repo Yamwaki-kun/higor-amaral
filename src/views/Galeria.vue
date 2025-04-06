@@ -79,7 +79,7 @@ export default {
 /* GALERIA */
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Cria colunas responsivas */ /* Margem de 60px na esquerda */
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); /* Cria colunas responsivas */ /* Margem de 60px na esquerda */
 }
 
 .gallery-item-wrapper {
@@ -121,5 +121,13 @@ export default {
   font-weight: bold;
   text-align: center;
   padding: 10px;
+}
+/* Ajuste para Mobile */
+@media (max-width: 768px) {
+  /* GALERIA */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(50%, 1fr)); /* Cria colunas responsivas */ /* Margem de 60px na esquerda */
+}
 }
 </style>

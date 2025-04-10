@@ -241,13 +241,15 @@ export default {
   width: 90%;
   margin-right: 0%;
   margin-left: 0%;
-  
+  padding-left: 0%;
+  padding-right: 0%;
+  text-align: center;
 }
 
 .project-details {
   text-align: center;
   min-height: 100vh;
-  width: 98%;
+  width: 100%;
   
   display: flex;
   

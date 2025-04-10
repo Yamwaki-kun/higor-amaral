@@ -129,5 +129,8 @@ export default {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(50%, 1fr)); /* Cria colunas responsivas */ /* Margem de 60px na esquerda */
 }
+.gallery-title {
+  font-size: 15px;
+}
 }
 </style>

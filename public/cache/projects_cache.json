@@ -1,6 +1,39 @@
 {
   "data": [
     {
+      "id": 20299438,
+      "user_id": 1147213,
+      "title": "Profundo Selvagem",
+      "description": "This is a project I did together with the Arte Revide school. My collaboration for this work was in the creation, character design and Clean up",
+      "created_at": "2025-04-13T17:23:58.465-05:00",
+      "updated_at": "2025-04-13T22:37:36.997-05:00",
+      "likes_count": 0,
+      "slug": "profundo-selvagem-1",
+      "published_at": "2025-04-13T17:23:58.451-05:00",
+      "adult_content": false,
+      "cover_asset_id": 86976050,
+      "admin_adult_content": false,
+      "tag_list": null,
+      "hash_id": "V24aNP",
+      "permalink": "https://www.artstation.com/artwork/V24aNP",
+      "hide_as_adult": false,
+      "cover": {
+        "id": 86976050,
+        "small_square_url": "https://cdna.artstation.com/p/assets/covers/images/086/976/050/20250413172356/small_square/higor-amaral-cover.jpg?1744583036",
+        "micro_square_image_url": "https://cdna.artstation.com/p/assets/covers/images/086/976/050/20250413172356/micro_square/higor-amaral-cover.jpg?1744583036",
+        "thumb_url": "https://cdna.artstation.com/p/assets/covers/images/086/976/050/20250413172356/smaller_square/higor-amaral-cover.jpg?1744583036"
+      },
+      "icons": {
+        "image": true,
+        "video": false,
+        "video_clip": false,
+        "model3d": false,
+        "marmoset": false,
+        "pano": false
+      },
+      "assets_count": 16
+    },
+    {
       "id": 16153372,
       "user_id": 1147213,
       "title": "Angel [agent] Animation series - project",
@@ -253,39 +286,6 @@
         "small_square_url": "https://cdna.artstation.com/p/assets/covers/images/059/540/792/small_square/higor-amaral-higor-amaral-16ad5eb7-da22-4a8e-a3b0-b34253a7766b.jpg?1676596418",
         "micro_square_image_url": "https://cdna.artstation.com/p/assets/covers/images/059/540/792/micro_square/higor-amaral-higor-amaral-16ad5eb7-da22-4a8e-a3b0-b34253a7766b.jpg?1676596418",
         "thumb_url": "https://cdna.artstation.com/p/assets/covers/images/059/540/792/smaller_square/higor-amaral-higor-amaral-16ad5eb7-da22-4a8e-a3b0-b34253a7766b.jpg?1676596418"
-      },
-      "icons": {
-        "image": true,
-        "video": false,
-        "video_clip": false,
-        "model3d": false,
-        "marmoset": false,
-        "pano": false
-      },
-      "assets_count": 2
-    },
-    {
-      "id": 11750206,
-      "user_id": 1147213,
-      "title": "Letrx's magic wand",
-      "description": "Bibith …. bobith…. Poooowww !!!!!",
-      "created_at": "2022-01-06T13:00:45.820-06:00",
-      "updated_at": "2022-01-10T03:23:14.867-06:00",
-      "likes_count": 2,
-      "slug": "letrx-s-magic-wand",
-      "published_at": "2022-01-06T13:00:45.810-06:00",
-      "adult_content": false,
-      "cover_asset_id": 44925734,
-      "admin_adult_content": false,
-      "tag_list": null,
-      "hash_id": "X1Jm3a",
-      "permalink": "https://www.artstation.com/artwork/X1Jm3a",
-      "hide_as_adult": false,
-      "cover": {
-        "id": 44925734,
-        "small_square_url": "https://cdna.artstation.com/p/assets/images/images/044/925/734/small_square/higor-amaral-accbdcd1-f881-4019-bab6-b71348482d19.jpg?1641495212",
-        "micro_square_image_url": "https://cdna.artstation.com/p/assets/images/images/044/925/734/micro_square/higor-amaral-accbdcd1-f881-4019-bab6-b71348482d19.jpg?1641495212",
-        "thumb_url": "https://cdna.artstation.com/p/assets/images/images/044/925/734/smaller_square/higor-amaral-accbdcd1-f881-4019-bab6-b71348482d19.jpg?1641495212"
       },
       "icons": {
         "image": true,
